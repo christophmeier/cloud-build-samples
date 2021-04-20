@@ -19,5 +19,5 @@ import (
 )
 
 func main () {
-  fmt.Println("Hello, Media Markt Saturn!")
+  fmt.Println("Hello, Media Markt Saturn Universe!")
 }
